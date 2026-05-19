@@ -1,4 +1,4 @@
-package demos
+package demos.android.service.demo
 
 import android.content.Intent
 import android.os.Bundle
